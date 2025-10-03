@@ -1,4 +1,4 @@
-# 📘 Projet Arbre Binaire de Recherche (ABR)
+# Projet Arbre Binaire de Recherche (ABR)
 
 ## Membres du groupe
 - Tiavina L1C 228 : Partie 1 (structure de base)  
@@ -35,7 +35,7 @@ Chaque membre du groupe a contribué en ajoutant une partie dans un commit sépa
 
 ---
 
-## ▶️ Exemple d’exécution
+##  Exemple d’exécution
 ```bash
 $ python3 abr_structure.py
 ```
@@ -50,7 +50,7 @@ Recherche 100 : False
 
 ---
 
-## 📝 Explication simple
+## Explication simple
 - L’ABR commence avec une racine (`racine`).  
 - Chaque valeur ajoutée est comparée :  
   - si elle est plus petite → elle va à gauche  
